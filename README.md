@@ -25,10 +25,15 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;"/>
+
 <br />
 <br />
+
 ---
+
 ### Connect with me:
+
 [![website](./img/instagram-light.svg)](https://www.instagram.com/yndk_p/?hl=id#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/yndk_p/?hl=id#gh-dark-mode-only)
+
 ---
