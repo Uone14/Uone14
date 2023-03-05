@@ -1,4 +1,4 @@
-# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Yuandika P.H - Uone14 (https://www.instagram.com/yndk_p/?hl=id)👋
 ## About me:
 - 🔭 I’m currently studying at Jember University(https://unej.ac.id/)
 - 🌱 I’m currently learning Python and CSharp
