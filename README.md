@@ -16,9 +16,9 @@
 
 ## Experience:
 #### 1. [Junior Network Administrator Training]| Jember `18 July - 29 August 2022`
-   - Creat Topologi Jaringan Internet LAN,MAN dan WAN
+   - Membuat Topologi Jaringan Internet LAN,MAN dan WAN
 #### 2. [Following a Computer Network Engineering Competency Certification](https://sertifikasi.lspdigital.id/) | Yogyakarta `01 November `
-   - Creat Topologi Jaringan Internet LAN,MAN dan WAN
+   - Membuat Topologi Jaringan Internet LAN,MAN dan WAN
 
 ---
 
