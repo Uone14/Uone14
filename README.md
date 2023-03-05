@@ -15,7 +15,7 @@
    - Member of Team 9 : Public Relations Documentation
 
 ## Experience:
-#### 1. [Junior Network Administrator Training]| Jember `18 July - 29 August 2022`
+#### 1. [Junior Network Administrator Training](https://digitalent.kominfo.go.id/)| Jember `18 July - 29 August 2022`
    - Membuat Topologi Jaringan Internet LAN,MAN dan WAN
 #### 2. [Following a Computer Network Engineering Competency Certification](https://sertifikasi.lspdigital.id/) | Yogyakarta `01 November `
    - Membuat Topologi Jaringan Internet LAN,MAN dan WAN
@@ -24,7 +24,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />]
 
 
 <br />
