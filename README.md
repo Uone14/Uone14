@@ -1,6 +1,6 @@
 # Hi there, I'm Yuandika P.H - Uone14 (https://www.instagram.com/yndk_p/?hl=id)👋
 ## About me:
-- 🔭 I’m currently studying at Jember University(https://unej.ac.id/)
+- 🔭 I’m currently studying at Jember University (https://unej.ac.id/)
 - 🌱 I’m currently learning Python and CSharp
 - 👯 I’m looking to collaborate as Network Engeneering
 - 🤔 I’m looking for suggest for Network Engeneering
